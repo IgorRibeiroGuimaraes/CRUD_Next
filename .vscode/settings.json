@@ -1,0 +1,14 @@
+{
+  "workbench.panel.defaultLocation": "bottom",
+  "debug.terminal.clearBeforeReusing": false,
+  "terminal.explorerKind": "integrated",
+  "terminal.integrated.allowChords": false,
+  "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+  "terminal.integrated.accessibleViewPreserveCursorPosition": false,
+  "terminal.integrated.cursorBlinking": false,
+  "terminal.integrated.cursorStyleInactive": "line",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.defaultLocation": "editor",
+  "terminal.integrated.enableFileLinks": "on",
+  "terminal.integrated.enableImages": false
+}
